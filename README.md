@@ -1,0 +1,2 @@
+# Mall-Customers-group-Clustering-Analysis-using-K-means-Clustering
+It is a cluster analysis for mall customers segmentation data using K-means Clustering Unsupervised Machine Learning Algorithm. Project objectives are: 1) To take step by step tour of the conventional version of K-means clustering algorithm and 2) To segment customers into groups with similar purchase histories. Technologies used: Python, Scikit-Learn, K-means clustering, Pandas, NumPy, Seaborn, Matplotlib
